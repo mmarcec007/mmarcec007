@@ -16,13 +16,13 @@ Hobbys:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-Alexa-informational?style=flat&logo=AmazonAlexa&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-WordPress-informational?style=flat&logo=WordPress&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Nginx-informational?style=flat&logo=nginx&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-Alexa-informational?style=flat&logo=AmazonAlexa&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-WordPress-informational?style=flat&logo=WordPress&color=2bbc8a)
 
 # GitHub Language Stats
 
