@@ -14,7 +14,9 @@ Hobbys:
 # Technologies
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=2bbc8a)
+![](https://img.shields.io/badge/Technology-Alexa-informational?style=flat&logo=AmazonAlexa&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&color=2bbc8a)
