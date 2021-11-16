@@ -12,6 +12,7 @@ Past Emplyment:
 
 Hobbys:
 * Aspiring WordPress learner and plugin developer
+* Overall building 🔨
 
 # Technologies
 
