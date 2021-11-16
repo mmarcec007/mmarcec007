@@ -8,8 +8,7 @@ Emplyment:
 * ZEF DEV
 
 Hobbys:
-* Aspiring WordPress learner 
-* Creation overall 🎨
+* Aspiring WordPress learner and plugin developer
 
 # Technologies
 
