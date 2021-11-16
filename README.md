@@ -4,7 +4,7 @@ I'm full stack web developer from Croatia. I have bsc in computer engineering an
 Beside developing, I love to play CoD, dancing or training for Airsoft.
 
 Current Emplyment:
-* Zef Development (Convoworks)
+* ZEF Development (Convoworks)
 
 Past Emplyment:
 * RunningBall
