@@ -23,6 +23,8 @@ Hobbys:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-Alexa-informational?style=flat&logo=AmazonAlexa&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-WordPress-informational?style=flat&logo=WordPress&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=Github&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PhpStorm-informational?style=flat&logo=PhpStorm&color=2bbc8a)
 
 # GitHub Language Stats
 
