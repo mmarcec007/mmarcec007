@@ -38,6 +38,9 @@ Open Source:
 * SportsPress REST Endpoints - https://github.com/mmarcec007/sportspress-rest-endpoints
 * Sponsors REST Endpoints - https://github.com/mmarcec007/sponsors-rest-endpoints
 
+Live Site's based on React and Redux:
+* Pizzeria Venera - https://venera.com.hr
+* Mazen Games - https://mazen-games.com
 
 ## Thanks for checking me out! Bye Bye 🤪
 <img src="https://c.tenor.com/Ux64jVIE2pQAAAAC/bye-tata.gif" width="220"/>
