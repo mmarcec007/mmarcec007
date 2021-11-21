@@ -1,7 +1,7 @@
 # Hi there I'm Mark Marčec aka Marky👋
 
 I'm full stack web developer from Croatia. I have bsc in computer engineering and several years of work experience as a full stack dev working on both frontend and backend. 
-Beside developing, I love to play CoD, dancing or training for Airsoft.
+Beside developing, I love to play CoD, watching local soccer games or training for Airsoft.
 
 Current Emplyment:
 * ZEF Development (Convoworks)
