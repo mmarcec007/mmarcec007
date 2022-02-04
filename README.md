@@ -1,6 +1,6 @@
 # Hi there I'm Mark Marčec aka Marky👋
 
-I'm a full stack web developer from Croatia. I have bsc in computer engineering and several years of work experience as a full stack dev working on both frontend and backend. 
+I'm a full stack web developer from Croatia. I have an bsc degree in computer engineering and several years of work experience as a full stack dev working on both frontend and backend. 
 Beside developing, I love to play console games, doing some amater photography or training for Airsoft.
 
 Current Emplyment:
